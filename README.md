@@ -15,22 +15,16 @@
 
 然后进入 [Leancloud](https://leancloud.cn/dashboard/applist.html#/apps) 对应的 Valine 应用中。
 
-点击 `云引擎 -> 设置` 填写代码库并保存：`https://github.com/zhaojun1998/Valine-Admin`  
-
-<img width="700" src="https://cdn.jun6.net/201804211508_545.png" />
-
-切换到部署标签页，分支使用 master，点击部署即可：
-<img width="700" src="https://cdn.jun6.net/201801112055_212.png" />
-<img width="700" src="https://cdn.jun6.net/201804211336_271.png" />
-
+![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine1.png)
+![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine2.png)
+![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine3.png)
 
 
 ## 配置项
 
 此外，你需要设置云引擎的环境变量以提供必要的信息，点击云引擎的设置页，设置如下信息：
 
-<img width="700" src="https://cdn.jun6.net/201806062257_798.png" />
-
+![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/Snipaste_2020-07-22_00-14-01.png)
 **必选参数**
 
 * `SITE_NAME` : 网站名称。
@@ -55,9 +49,8 @@
 [开发指南](/高级配置.md#开发)
 
 ## 更新历史
-
+* 2020.7.22 Leancloud不再支持nodejs 6.x,之前的版本会部署失败. 修改package.json中node版本为12.x
 * 12.01 新增自助添加定时器方式。详见: [LeanCloud 自带定时器[推荐方式]](/高级配置.md#leancloud-自带定时器推荐)
-
 * 7.30 修复 @ 邮件通知出错 bug (需 [Valine 1.3.0](https://valine.js.org/changelog.html#v1-3-0-2018-07-29) 支持)，优化发件逻辑，站长发的评论不再收到邮件通知。
 * 7.7 兼容 `valine v1.2.0-beta ` 版本对 at 的更改 [点击查看](https://valine.js.org/changelog.html#v1-2-0-beta-2018-06-30)
 * 7.1 修复 `Web` 后台登录安全 `bug`
