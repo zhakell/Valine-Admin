@@ -78,7 +78,3 @@
 <img width="500" src="https://cdn.jun6.net/201807081507_968.png"/>
 
 > **注: 更新新版本与更改环境变量均需要重启容器后生效。**
-
-
-
-**注：本项目修改于 panjunwen 的项目 : [Valine-Admin](https://github.com/panjunwen/Valine-Admin) (部分逻辑于功能不同，还请读者不要搞混配置项.)**
