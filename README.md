@@ -54,6 +54,7 @@
 [开发指南](/高级配置.md#开发)
 
 ## 更新历史
+* 2020.7.23 该仓库已集成GitHub Actions唤醒方案
 * 2020.7.22 Leancloud不再支持nodejs 6.x,之前的版本会部署失败. 修改package.json中node版本为12.x
 * 12.01 新增自助添加定时器方式。详见: [LeanCloud 自带定时器[推荐方式]](/高级配置.md#leancloud-自带定时器推荐)
 * 7.30 修复 @ 邮件通知出错 bug (需 [Valine 1.3.0](https://valine.js.org/changelog.html#v1-3-0-2018-07-29) 支持)，优化发件逻辑，站长发的评论不再收到邮件通知。
