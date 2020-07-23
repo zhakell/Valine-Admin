@@ -15,8 +15,13 @@
 
 然后进入 [Leancloud](https://leancloud.cn/dashboard/applist.html#/apps) 对应的 Valine 应用中。
 
+1. 点击`云引擎`-`部署`，部署模式选择`部署项目`;
 ![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine1.png)
+2. 选择`git部署`,并`配置git`;
+
 ![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine2.png)
+3. 填入github仓库地址;
+
 ![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine3.png)
 
 
