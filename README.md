@@ -13,7 +13,7 @@
 
 首先需要确保 Valine 的基础功能是正常的，参考 [Valine Docs](https://valine.js.org)。
 
-然后进入 [Leancloud](https://leancloud.cn/dashboard/applist.html#/apps) 对应的 Valine 应用中。
+然后进入 [Leancloud](https://leancloud.app/dashboard/applist.html#/apps) 对应的 Valine 应用中。
 
 1. 点击`云引擎`-`部署`，部署模式选择`部署项目`;
 ![](https://cdn.jsdelivr.net/gh/zuertx/Image-hosting/images/valine1.png)
@@ -72,7 +72,7 @@
 
 ### 为什么我刚开始测试的时候是正常的，但后面的邮件没有通知？
 
-请确认已针对 `LeanCloud` 的**免费容器休眠策略**配置了定时器，详见：[LeanCloud 休眠策略](https://github.com/zhaojun1998/Valine-Admin/blob/master/%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE.md#leancloud-休眠策略)。
+请确认已针对 `LeanCloud` 的**免费容器休眠策略**配置了定时器，详见：[LeanCloud 休眠策略](https://github.com/zhakell/Valine-Admin/blob/master/%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE.md#leancloud-休眠策略)。
 
 ### 如何重启容器？
 
