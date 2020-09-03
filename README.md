@@ -74,7 +74,7 @@
 
 请确认已针对 `LeanCloud` 的**免费容器休眠策略**配置了定时器，详见：[LeanCloud 休眠策略](https://github.com/zhakell/Valine-Admin/blob/master/%E9%AB%98%E7%BA%A7%E9%85%8D%E7%BD%AE.md#leancloud-休眠策略)。
 
-### 如何重启容器？
+### 如何重启容器？(已过时)
 
 <img width="500" src="https://cdn.jun6.net/201807081507_968.png"/>
 
