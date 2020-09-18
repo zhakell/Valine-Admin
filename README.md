@@ -1,4 +1,6 @@
 # Valine Admin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhakell%2FValine-Admin.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhakell%2FValine-Admin?ref=badge_shield)
+
 
 
 
@@ -79,3 +81,7 @@
 <img width="500" src="https://cdn.jun6.net/201807081507_968.png"/>
 
 > **注: 更新新版本与更改环境变量均需要重启容器后生效。**
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzhakell%2FValine-Admin.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzhakell%2FValine-Admin?ref=badge_large)
